@@ -1,0 +1,37 @@
+baseURL: /
+languageCode: en-us
+title: India 2 Manchester
+
+theme: PaperMod
+
+params:
+  defaultTheme: auto
+  ShowBreadCrumbs: true
+
+  profileMode:
+    enabled: true
+    title: India 2 Manchester
+    subtitle: My first try at a journeyman FM24 save
+
+    buttons:
+    - name: Posts
+      url: /posts/
+
+    - name: About the Save
+      url: /posts/an-ambitious-plan/
+
+    - name: Clubs Managed
+      url: /clubs/
+
+  socialIcons:
+  - name: github
+    url: https://github.com/charlescsr
+
+  - name: rss
+    url: index.xml
+
+  outputs:
+    home:
+    - HTML
+    - RSS
+    - JSON
