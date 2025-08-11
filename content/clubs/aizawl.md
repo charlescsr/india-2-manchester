@@ -21,4 +21,4 @@ A quick glance of this club I managed to fetch from the internet was this:
 Got to say this club was surprised me. Especially their out of nowhere title in 2016-17 and their dominance in their local league. They have a decent enough youth academy from what I could see in game atleast and they have a few decent youth prospects just like it is in real life. And their fans are passionate like your typical community club and they seem to absolutely dominate the . But now the slump to the relegation zone at this current moment does not surprise me. My style of play has always been rock and roll football with flair. But now is the first time I will quite literally be playing absorb and counter attack.
 
 The honor roll:
-![Screenshot 2025-08-11 112507.png](images/Screenshot%202025-08-11%20112507.png)
+![Screenshot 2025-08-11 112507.png](/india-2-manchester/images/Screenshot%202025-08-11%20112507.png)
