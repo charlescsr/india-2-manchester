@@ -1,4 +1,4 @@
-baseURL: https://charlescsr.github.io/india-2-manchester
+baseURL: https://charlescsr.github.io/india-2-manchester/
 languageCode: en-us
 title: India 2 Manchester
 
@@ -15,13 +15,13 @@ params:
 
     buttons:
     - name: Posts
-      url: /posts/
+      url: posts/
 
     - name: About the Save
-      url: /posts/an-ambitious-plan/
+      url: posts/an-ambitious-plan/
 
     - name: Clubs Managed
-      url: /clubs/
+      url: clubs/
 
   socialIcons:
   - name: github
@@ -29,9 +29,3 @@ params:
 
   - name: rss
     url: index.xml
-
-  outputs:
-    home:
-    - HTML
-    - RSS
-    - JSON
