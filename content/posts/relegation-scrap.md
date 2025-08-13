@@ -18,7 +18,7 @@ Then it was a win against our relegation rivals in Namdhari FC
 
 ![Screenshot 2025-08-12 174914.png](/india-2-manchester/images/Screenshot%202025-08-12%20174914.png)
 
-Probably our most dominant win in my tenure till now. Rememeber when I said I brought in a full back who was a better natural at striker? That was the guy who popped up with the goal in the 74th minute which surprised the hell out of me. Our set pieces have improved after bringing in my old routines too which really helps.
+Probably our most dominant win in my tenure till now. Remember when I said I brought in a full back who was a better natural at striker? That was the guy who popped up with the goal in the 74th minute which surprised the hell out of me. Our set pieces have improved after bringing in my old routines too which really helps.
 
 Then it was an inevitable loss to Kerala FC who were towards the top of the I-League.
 
