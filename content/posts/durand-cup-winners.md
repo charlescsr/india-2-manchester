@@ -32,11 +32,27 @@ Then to the knockouts. First up was a grudge match against Kerala Blasters and w
 
 Cagey affair really. Both sides never had a lot of chances. But a hopeful long ball from the LB and Denzell managed to thump it past a determined keeper who was set to keep stopping us really. And we managed to keep the ball when it was absolutely needed. What's more is these guys were the holders. Not once but TWICE. So I'm happy with the win because it is Kerala Blasters and also beating the holders.
 
+The way this goal was scored encapsulated my feeling perfectly:
+
+<video width="640" height="360" controls>
+  <source src="/india-2-manchester/videos/Freaking Finally.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 Next was ATK Mohun Bagan which did terrify me but we handled it well honestly:
 
 ![Screenshot 2025-08-22 135054.png](/india-2-manchester/images/Screenshot%202025-08-22%20135054.png)
 
-The opener was a thing of beauty really. The recruitment at ATK Mohun Bagan went the same way as me in terms of getting a foreign keeper but he had a goddamn howler. The corner came in and Aigner won the header and he caught the ball yes, but he was INSIDE the goal when he did. That made me almost fall on the floor laughing really. Then the second goal was equally special. A free kick from our Player/Coach(Doesn't change my mind that I will give him a coach role when his contract expires).
+The opener was a thing of beauty really. The recruitment at ATK Mohun Bagan went the same way as me in terms of getting a foreign keeper but he had a goddamn howler. The corner came in and Aigner won the header and he caught the ball yes, but he was INSIDE the goal when he did. That made me almost fall on the floor laughing really. 
+
+Have a look for yourself:
+
+<video width="640" height="360" controls>
+  <source src="/india-2-manchester/videos/A thing of beauty.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Then the second goal was equally special. A free kick from our Player/Coach(Doesn't change my mind that I will give him a coach role when his contract expires).
 
 And with that we made it to the final which wound up being against Jamshedpur. We have a bit of history from the Super Cup when we first got an unlikely win and then a more convincing one the second time out but if you told me the third time would be difficult I would have never believed you.
 

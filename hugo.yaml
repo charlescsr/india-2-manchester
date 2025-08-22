@@ -4,6 +4,13 @@ title: India 2 Manchester
 
 theme: PaperMod
 
+ignoreLogs: ['warning-goldmark-raw-html']
+
+markup:
+  goldmark:
+      renderer:
+        unsafe: true
+
 params:
   assets:
     favicon: favicon.ico
