@@ -88,4 +88,6 @@ So the choice was made:
 
 And it will be S.S.C Napoli.
 
+![Screenshot 2025-09-28 231940.png](/india-2-manchester/images/Screenshot%202025-09-28%20231940.png)
+
 ## More on the team incoming
